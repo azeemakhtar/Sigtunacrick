@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/ExcelVisionSolutionTechnologies/excelvisiontech/_apis/build/status/azeemakhtar.Sigtunacrick?branchName=master)](https://dev.azure.com/ExcelVisionSolutionTechnologies/excelvisiontech/_build/latest?definitionId=1&branchName=master)
